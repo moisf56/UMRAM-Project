@@ -1,3 +1,5 @@
+;Created by Engineer Mohammed Abed
+
 ORG 0
 ;X,Y [0,99]
 acall	CONFIGURE_LCD
